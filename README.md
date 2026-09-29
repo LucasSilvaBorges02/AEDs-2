@@ -1,10 +1,2 @@
 # AEDs II
 
-Repositório de referência das atividades desenvolvidas na disciplina de Algoritmos e Estruturas de Dados II.
-
-## Organização
-
-- `Atividades/atividade1`: oficinas e atividade sobre desempenho de algoritmos e algoritmos de ordenação.
-- `Atividades/AEDs-II-Unidade0-lucas`: atividade de revisão e nivelamento sobre orientação a objetos e arquivos texto.
-- `Atividades avaliativas`: espaço reservado para as próximas atividades avaliativas.
-
